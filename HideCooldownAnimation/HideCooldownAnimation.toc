@@ -2,5 +2,6 @@
 ## Title: HideCooldownAnimation
 ## Author: DeeRez
 ## Version: 1.0
+## X-Curse-Project-ID: 888052
 ## Notes: Hides cooldown animation added in 10.1.5
 HideCooldownAnimation.lua
